@@ -1,0 +1,650 @@
+[
+    {
+      "nome": "Irmão do Jorel",
+      "dicas": [
+        "Seu nome nunca é revelado na série.",
+        "Vive à sombra de um garoto muito popular.",
+        "Tem cabelo cacheado e uma voz única.",
+        "Faz parte de uma família excêntrica com um pai exótico.",
+        "Animação brasileira."
+      ]
+    },
+    {
+      "nome": "Killua",
+      "dicas": [
+        "Descendente de uma família famosa por assassinatos.",
+        "Já foi torturado pela própria família.",
+        "Possui uma atitude fria, mas é extremamente leal.",
+        "Tem grande afinidade com eletricidade."
+      ]
+    },
+    {
+      "nome": "Gon",
+      "dicas": [
+        "Tem grande ligação com a natureza e os animais.",
+        "Foi criado em uma ilha isolada.",
+        "Tem um faro extremamente aguçado como habilidade especial.",
+        "Seu pai desaparecido é um famoso caçador."
+      ]
+    },
+    {
+      "nome": "Luffy",
+      "dicas": [
+        "É conhecido por um acessório na cabeça.",
+        "Tem uma cicatriz debaixo do olho esquerdo.",
+        "Foi salvo por um pirata quando criança.",
+        "Comeu uma fruta que o impede de nadar.",
+        "Quer ser o maior entre aqueles que navegam os mares."
+      ]
+    },
+    {
+      "nome": "Macaco Louco",
+      "dicas": [
+        "Era originalmente um ajudante de um cientista.",
+        "É obcecado por dominar uma certa cidade.",
+        "Tem o cérebro exposto em uma redoma de vidro.",
+        "Seu jeito de falar é pomposo e antiquado.",
+        "É inimigo de três meninas com superpoderes."
+      ]
+    },
+    {
+      "nome": "Pinkie Pie",
+      "dicas": [
+        "Trabalha em uma confeitaria.",
+        "Tem um talento natural para festas e surpresas.",
+        "Seu comportamento é hiperativo e imprevisível.",
+        "Pode quebrar a quarta parede frequentemente.",
+        "Representa a risada entre seis amigas mágicas."
+      ]
+    },
+    {
+      "nome": "Rainbow Dash",
+      "dicas": [
+        "É extremamente competitiva e rápida.",
+        "Sonha em fazer parte de um grupo de elite aérea.",
+        "Tem um raio de arco-íris como marca.",
+        "Já realizou um feito chamado 'sonic rainboom'.",
+        "É conhecida por sua lealdade inabalável."
+      ]
+    },
+    {
+      "nome": "Coragem",
+      "dicas": [
+        "É cor-de-rosa e vive no meio do nada.",
+        "Apesar de medroso, enfrenta o sobrenatural.",
+        "É adotado por um casal de idosos.",
+        "Seu inimigo costuma ser o próprio desconhecido.",
+        "Fala pouco, mas grita muito."
+      ]
+    },
+    {
+      "nome": "Kick Buttowski",
+      "dicas": [
+        "É obcecado por esportes radicais.",
+        "Usa um capacete branco com listras vermelhas.",
+        "Sonha em se tornar uma lenda do perigo.",
+        "Tem um melhor amigo que é meio atrapalhado.",
+        "Seu nome verdadeiro é Clarence."
+      ]
+    },
+    {
+      "nome": ["Timmy Turner", "Timmy"],
+      "dicas": [
+        "Tem um chapéu rosa e dentes grandes.",
+        "Vive cercado por adultos incompetentes.",
+        "Recebe ajuda de dois padrinhos mágicos.",
+        "Muitas vezes usa desejos para resolver problemas.",
+        "Tem uma babá malvada chamada Vicky."
+      ]
+    },
+    {
+      "nome": "Cosmo",
+      "dicas": [
+        "É extremamente burro, mas muito divertido.",
+        "É verde e tem poderes mágicos.",
+        "É casado com uma fada mais sensata.",
+        "Transforma qualquer desejo em caos sem querer.",
+        "Tem um filho bebê ainda mais poderoso que ele."
+      ]
+    },
+    {
+      "nome": ["Scooby-Doo", "Scooby"],
+      "dicas": [
+        "Tem medo de tudo, mas está sempre no meio do perigo.",
+        "Gosta muito de biscoitos especiais.",
+        "Tem um melhor amigo magrelo e comilão.",
+        "Ajuda a resolver mistérios disfarçados.",
+        "Fala com um sotaque peculiar e engraçado."
+      ]
+    },
+    {
+      "nome": ["Salsicha", "Salsicha Rogers", "Shaggy", "Norville"],
+      "dicas": [
+        "Tem um apetite interminável.",
+        "Usa uma camiseta verde e calças marrons.",
+        "É dono de um cachorro muito medroso.",
+        "Sempre tenta fugir dos mistérios e fantasmas.",
+        "Seu nome verdadeiro é Norville."
+      ]
+    },
+    {
+      "nome": "Stitch",
+      "dicas": [
+        "É uma experiência genética com número 626.",
+        "Fugiu de um laboratório espacial.",
+        "Tem força sobre-humana e fala mal.",
+        "Foi adotado por uma menina havaiana.",
+        "Aprendeu o valor de 'ohana'."
+      ]
+    },
+    {
+      "nome": ["Marie", "Gatinha Marie"],
+      "dicas": [
+        "É muito vaidosa e refinada.",
+        "Tem um laço rosa no pescoço.",
+        "É uma das filhotes de uma gata branca parisiense.",
+        "Gosta de música e da vida nobre.",
+        "Faz parte de um trio de gatinhos aristocráticos."
+      ]
+    },
+    {
+      "nome": "Pocoyo",
+      "dicas": [
+        "É um menino pequeno de macacão azul.",
+        "Se comunica com um narrador.",
+        "Tem amigos como um pato e um elefante rosa.",
+        "Aprende coisas novas em cada episódio.",
+        "Sua série é focada em educação infantil."
+      ]
+    },
+    {
+      "nome": "Patolino",
+      "dicas": [
+        "É extremamente egoísta e competitivo.",
+        "Fala de forma acelerada e com língua presa.",
+        "Está quase sempre frustrado com o coelho mais famoso.",
+        "É um dos personagens mais icônicos dos Looney Tunes.",
+        "Já foi Duck Dodgers no espaço."
+      ]
+    },
+    {
+      "nome": ["Dr. Doofenshmirtz", "Dr. Heinz Doofenshmirtz", "Doutor Doofenshmirtz", "Dr Doofenshmirtz", "Doofenshmirtz",
+        "Heinz Doofenshmirtz", "Doutor Heinz Doofenshmirtz"],   
+      "dicas": [
+        "É um cientista maluco e atrapalhado.",
+        "Vive criando aparelhos com nomes terminando em 'inator'.",
+        "É constantemente sabotado por um ornitorrinco.",
+        "Tem uma filha que o despreza.",
+        "Quer dominar a Área das Três Estados."
+      ]
+    },
+    {
+      "nome": "Barbie",
+      "dicas": [
+        "Tem uma carreira diferente a cada lançamento.",
+        "É loira, elegante e símbolo cultural desde 1959.",
+        "Tem um namorado que às vezes é piloto ou salva-vidas.",
+        "Já foi princesa, médica, astronauta e até presidente.",
+        "Protagoniza filmes de animação e live-action."
+      ]
+    },
+    {
+      "nome": "Ken",
+      "dicas": [
+        "É conhecido principalmente como o par romântico de uma personagem loira.",
+        "Geralmente tem cabelo loiro ou castanho claro.",
+        "Tem um estilo sempre alinhado com o da parceira.",
+        "Já apareceu em animações e brinquedos desde os anos 60.",
+        "Foi dublado por Michael Keaton em Toy Story 3."
+      ]
+    },
+    {
+      "nome": ["Sasuke", "Sasuke Uchiha"],
+      "dicas": [
+        "É o último membro de um clã famoso por olhos especiais.",
+        "Tem sede de vingança contra o próprio irmão.",
+        "Seu nome começa com a mesma letra de seu vilarejo.",
+        "Usa chidori como técnica especial.",
+        "É rival do ninja mais barulhento do anime."
+      ]
+    },
+    {
+      "nome": ["Zoro", "Roronoa Zoro"],
+      "dicas": [
+        "Sonha em ser o maior espadachim do mundo.",
+        "Usa uma técnica de luta com três espadas.",
+        "Costuma se perder mesmo com um mapa.",
+        "Usa um lenço na cabeça durante lutas sérias.",
+        "Faz parte de uma tripulação liderada por um certo chapéu de palha."
+      ]
+    },
+    {
+      "nome": ["Samus Aran", "Samus"],
+      "dicas": [
+        "Caçadora de recompensas silenciosa.",
+        "Frequentemente confundida com um robô.",
+        "Veste um traje tecnológico da Chozo.",
+        "Protagonista de uma saga com planetas hostis."
+      ]
+    },
+    {
+      "nome": "Sora",
+      "dicas": [
+        "Carrega uma arma que não parece arma.",
+        "Viajante de mundos, nem todos realistas.",
+        "Tem aliados como um pato e um cachorro.",
+        "Pertence a um jogo que une Disney e Square Enix."
+      ]
+    },
+    {
+      "nome": "Bayonetta",
+      "dicas": [
+        "Feiticeira com estilo extravagante.",
+        "Usa o próprio cabelo como armamento.",
+        "Combate anjos com sarcasmo.",
+        "Combina tiroteios e invocações demoníacas."
+      ]
+    },
+    {
+      "nome": "HAL 9000",
+      "dicas": [
+        "Olho vermelho, sem corpo físico.",
+        "Afirma: 'I'm sorry, Dave. I'm afraid I can't do that.'",
+        "Controla uma nave espacial.",
+        "Representa a ameaça da inteligência artificial."
+      ]
+    },  
+    {
+      "nome": ["Walter White", "Heisenberg"],
+      "dicas": [
+        "Seu alter ego tem um nome ligado à cor.",
+        "Entra no mundo do crime por motivos familiares.",
+        "Produz substâncias ilegais em laboratório.",
+        "Professor de química frustrado.",
+        "'Say my name'."
+      ]
+    },
+    {
+      "nome": ["BoJack Horseman", "BoJack", "Bojack"],
+      "dicas": [
+        "Ator decadente e sarcástico.",
+        "Tem cabeça de cavalo e vive em Hollywood.",
+        "Estrela de uma sitcom dos anos 90 fictícia.",
+        "Lida com vícios e crises existenciais."
+      ]
+    },
+    {
+      "nome": ["Eleven", "Onze"],
+      "dicas": [
+        "Menina criada em laboratório secreto.",
+        "Fala pouco, mas tem habilidades psíquicas.",
+        "Gosta de waffles.",
+        "Luta contra criaturas de outra dimensão."
+      ]
+    },
+    {
+      "nome": ["The Mandalorian", "Mandaloriano", "Mandalorian"],
+      "dicas": [
+        "Caçador de recompensas com armadura icônica.",
+        "Segue um código de conduta rígido.",
+        "Tem um protegido verde e pequeno.",
+        "Nunca mostra o rosto facilmente."
+      ]
+    },
+    {
+      "nome": ["Light Yagami", "Kira"],
+      "dicas": [
+        "Estudante de excelência e ambição.",
+        "Recebe um objeto que muda sua vida.",
+        "Age como um deus da justiça.",
+        "É perseguido por um detetive genial."
+      ]
+    },
+    {
+
+      "nome": "Lara Croft",
+      "dicas": [
+        "Arqueóloga com sede de aventura.",
+        "Explora ruínas antigas e resolve enigmas.",
+        "Protagonista de uma franquia iniciada nos anos 90.",
+        "Já foi interpretada por Angelina Jolie.",
+        "Personagem principal de Tomb Raider."
+      ]
+    },
+    {
+      "nome": "Sonic",
+      "dicas": [
+        "Rival histórico da Nintendo.",
+        "Protagonista azul de alta velocidade.",
+        "Tem um amigo chamado Tails.",
+        "É um ouriço muito rápido."
+      ]
+    },
+    {
+      "nome": "Mario",
+      "dicas": [
+        "Personagem de bigode criado no Japão.",
+        "Trabalha como encanador.",
+        "Enfrenta um vilão que cospe fogo.",
+        "É irmão de Luigi.",
+        "Salva a Princesa Peach no Reino dos Cogumelos."
+      ]
+    },
+    {
+      "nome": ["Pac Man", "Pac-Man"],
+      "dicas": [
+        "Protagonista de um dos primeiros jogos da história.",
+        "Foge de fantasmas em labirintos.",
+        "Personagem com formato circular.",
+        "Come frutas e pílulas.",
+        "Clássico arcade amarelo dos anos 80."
+      ]
+    },
+    {
+      "nome": ["Mega Man", "Mega-Man", "Rockman"],
+      "dicas": [
+        "Personagem com braço-canhão.",
+        "Foi criado por Dr. Light.",
+        "Combate robôs mestres e absorve poderes.",
+        "Conhecido como Rockman no Japão.",
+        "É um robô azul lutando contra o mal."
+      ]
+    },
+    {
+      "nome": "Crash",
+      "dicas": [
+        "Personagem originado no PlayStation.",
+        "Protagonista de uma franquia de plataforma.",
+        "Tem uma máscara chamada Aku Aku.",
+        "Seu inimigo principal é o Dr. Neo Cortex."
+      ]
+    },
+    {
+      "nome": "Scorpion",
+      "dicas": [
+        "Usa máscara e roupas amarelas",
+        "Ninja do fogo e da vingança.",
+        "Tem uma frase clássica: 'Get over here!.",
+        "Presente desde Mortal Kombat 1.",
+        "Luta com Sub-Zero."
+      ]
+    },
+    {
+      "nome": "Ryu",
+      "dicas": [
+        "Praticante de artes marciais.",
+        "Usa faixa vermelha e kimono branco.",
+        "Possui o movimento Hadouken.",
+        "Personagem principal de Street Fighter."
+      ]
+    },
+    {
+      "nome": ["CJ", "Carl Johnson"],
+      "dicas": [
+        "Faz parte da franquia Grand Theft Auto.",
+        "Vive em San Andreas.",
+        "Faz parte da Grove Street.",
+        "Pode andar de bike e personalizar carros.",
+        "Protagonista de GTA: San Andreas."
+      ]
+    },
+    {
+      "nome": "Kratos",
+      "dicas": [
+        "Personagem movido por vingança.",
+        "Já enfrentou deuses gregos.",
+        "Tem uma barba característica na nova fase.",
+        "Seu filho se chama Atreus.",
+        "Protagonista de God of War."
+      ]
+    },
+    {
+      "nome": "Pikachu",
+      "dicas": [
+        "Tipo elétrico.",
+        "Tem um ataque chamado Choque do Trovão.",
+        "Seu treinador original é Ash.",
+        "Tem orelhas pretas e bochechas vermelhas.",
+        "É o mascote da franquia Pokémon."
+      ]
+    },
+    {
+      "nome": "Bowser",
+      "dicas": [
+        "Vilão que sequestra princesas.",
+        "Grande, forte e cospe fogo.",
+        "Tartaruga do mal.",
+        "Inimigo número um de Mario.",
+        "Rei dos Koopas."
+      ]
+    },
+    {
+      "nome": "Ellie",
+      "dicas": [
+        "Personagem jovem em mundo pós-apocalíptico.",
+        "Tem forte ligação com Joel.",
+        "Aparece mais madura na continuação.",
+        "É imune ao vírus Cordyceps.",
+        "Protagonista de The Last of Us Part II."
+      ]
+    },
+    {
+      "nome": "Chun Li",
+      "dicas": [
+        "Primeira mulher em jogos de luta.",
+        "Policial chinesa.",
+        "Luta com chutes rápidos.",
+        "Usa roupas azuis e coques com fitas.",
+        "Personagem de Street Fighter."
+      ]
+    },
+    {
+      "nome": "Homem Aranha",
+      "dicas": [
+        "Jovem fotógrafo nerd.",
+        "Ganha poderes após uma picada.",
+        "Balança entre os prédios de Nova York.",
+        "'Com grandes poderes vêm grandes responsabilidades'.",
+        "Enfrenta o Duende Verde e Doutor Octopus."
+      ]
+    },
+    {
+      "nome": "Harry Potter",
+      "dicas": [
+        "Sobreviveu a um ataque de magia mortal.",
+        "Tem uma cicatriz em forma de raio.",
+        "É o bruxo mais famoso da cultura pop.",
+        "Melhores amigos: Rony e Hermione.",
+        "Estuda em Hogwarts."
+      ]
+    },
+    {
+      "nome": ["Bob Esponja", "Bob Esponja Calça Quadrada"],
+      "dicas": [
+        "Vive em um abacaxi.",
+        "Mora no mar",
+        "Trabalha no Siri Cascudo.",
+        "Tem uma risada inconfundível.",
+        "Esponja do mar amarela e quadrada."
+      ]
+    },
+    {
+      "nome": "Homer Simpson",
+      "dicas": [
+        "Ama rosquinhas.",
+        "Pai de três filhos.",
+        "Mora em Springfield.",
+        "Trabalha em uma usina nuclear.",
+        "Protagonista de Os Simpsons."
+      ]
+    },
+    {
+      "nome": ["Batman", "Bruce Wayne"],
+      "dicas": [
+        "Viu seus pais serem assassinados.",
+        "Não tem superpoderes.",
+        "Tem um mordomo.",
+        "Protetor de Gotham.",
+        "É o Cavaleiro das Trevas."
+      ]
+    },
+    {
+      "nome": ["Superman", "Clark Kent", "Super Homem", "Kal-El"],
+      "dicas": [
+        "Veio de outro planeta.",
+        "Trabalha como repórter.",
+        "Sua fraqueza é kryptonita.",
+        "Usa uma capa vermelha.",
+        "É o Homem de Aço."
+      ]
+    },
+    {
+      "nome": ["Mulher Maravilha", "Diana"],
+      "dicas": [
+        "Guerreira amazona.",
+        "Tem um laço da verdade.",
+        "Viveu em Themyscira.",
+        "Membro da Liga da Justiça.",
+        "É a Princesa Diana."
+      ]
+    },
+    {
+      "nome": ["Capitão América", "Capitao America", "Steve Rogers"],
+      "dicas": [
+        "Soldado que lutou na Segunda Guerra Mundial.",
+        "Recebeu um soro do super soldado.",
+        "Lidera os Vingadores.",
+        "Usa escudo indestrutível.",
+        "É o Steve Rogers."
+      ]
+    },
+    {
+      "nome": ["Homem de Ferro", "Tony Stark"],
+      "dicas": [
+        "Bilionário, playboy e gênio.",
+        "Criou sua armadura em uma caverna.",
+        "É o fundador dos Vingadores no MCU.",
+        "Tem uma assistente chamada Pepper.",
+        "É o Tony Stark."
+      ]
+    },
+    {
+      "nome": ["Darth Vader", "Anakin Skywalker"],
+      "dicas": [
+        "Foi um Jedi antes de mudar de lado.",
+        "Pai de dois heróis importantes.",
+        "Respiração mecânica marcante.",
+        "Comanda o Império Galáctico.",
+        "É o vilão de Star Wars."
+      ]
+    },
+    {
+      "nome": "Luke Skywalker",
+      "dicas": [
+        "Começou como fazendeiro.",
+        "Irmão gêmeo de Leia.",
+        "Aprende com Yoda.",
+        "Confronta o próprio pai.",
+        "Herói da trilogia original de Star Wars."
+      ]
+    },
+    {
+      "nome": "Yoda",
+      "dicas": [
+        "Pequeno, verde e sábio.",
+        "Fala de forma invertida.",
+        "Treinou muitos Jedi.",
+        "Viveu séculos.",
+        "Mestre Jedi de Star Wars."
+      ]
+    },
+    {
+      "nome": "Neo",
+      "dicas": [
+        "Aprende kung fu rapidamente.",
+        "Vive em uma realidade simulada.",
+        "É o Escolhido.",
+        "Recebe ajuda de Morpheus.",
+        "Protagonista de Matrix."
+      ]
+    },
+    {
+      "nome": "Indiana Jones",
+      "dicas": [
+        "Professor universitário e arqueólogo.",
+        "Tem medo de cobras.",
+        "Usa chicote como arma.",
+        "Explora templos e relíquias.",
+        "É interpretado por Harrison Ford."
+      ]
+    },
+    {
+      "nome": ["James Bond", "Agente 007", "007"],
+      "dicas": [
+        "Agente britânico a serviço secreto.",
+        "Famoso por seus equipamentos.",
+        "Ícone de filmes de espionagem.",
+        "Código 007."
+      ]
+    },
+    {
+      "nome": "Jack Sparrow",
+      "dicas": [
+        "Tem um jeito estranho de andar.",
+        "Procura constantemente seu navio.",
+        "Pirata carismático.",
+        "Inimigos incluem a marinha inglesa e Davy Jones.",
+        "Protagonista de Piratas do Caribe."
+      ]
+    },
+    {
+      "nome": "Jason",
+      "dicas": [
+        "Silencioso e ameaçador.",
+        "Usa uma máscara de hóquei.",
+        "Aparece em acampamentos abandonados.",
+        "Ataca em datas específicas.",
+        "Vilão de Sexta-Feira 13."
+      ]
+    },
+    {
+      "nome": "Chucky",
+      "dicas": [
+        "Boneco possuído por um assassino.",
+        "Tem cabelo ruivo e sardas.",
+        "Costuma usar uma faca.",
+        "Vive dizendo piadas macabras.",
+        "Vilão da franquia Brinquedo Assassino."
+      ]
+    },
+    {
+      "nome": "Shrek",
+      "dicas": [
+        "Vive em um pântano.",
+        "Tem um amigo burro falante.",
+        "Não gosta de pessoas no começo.",
+        "Salva a princesa Fiona.",
+        "É um ogro muito amado."
+      ]
+    },
+    {
+      "nome": "Po",
+      "dicas": [
+        "Gosta de macarrão e luta.",
+        "Filho adotivo de um ganso.",
+        "Treinado pelo Mestre Shifu.",
+        "Luta ao lado dos Cinco Furiosos.",
+        "É o Panda do Kung Fu Panda."
+      ]
+    },
+  {
+    "nome": "Sans",
+    "dicas": [
+      "É um esqueleto que faz piadas.",
+      "Usa um capuz azul.",
+      "É irmão de Papyrus.",
+      "Famoso por sua luta contra o jogador.",
+      "É um personagem de Undertale."
+    ]
+  }
+]

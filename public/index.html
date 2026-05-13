@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Jogo de Adivinhação de Personagem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>  
+    <div class="game-container">
+        <h1>
+            <span class="emoji"></span>
+            Adivinhe o Personagem
+            <span class="emoji"></span>
+        </h1>
+        <div id="vidas"></div>
+        <div id="dicas"></div>
+        
+        <input type="text" id="adivinhaInput" placeholder="Quem é ele?" autocomplete="off">
+        <br>
+        <button id="btnAdivinhar">Adivinhar</button>
+        <button id="restartBtn" style="display: none;">🔁 Jogar Novamente</button>
+        <p id="mensagem"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
