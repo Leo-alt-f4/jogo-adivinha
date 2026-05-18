@@ -13,18 +13,28 @@ async function init() {
     dicasEl.innerHTML = "";
     msgEl.textContent = "";
     inputEl.value = "";
-    inputEl.disabled = false; // Permite escrever ao reiniciar
+    inputEl.disabled = false;
     restartBtn.style.display = "none";
     hintIndex = 0;
     gameOver = false;
 
-    const res = await fetch('/api/personagem');
-    selected = await res.json();
-    
-    vidas = selected.dicas.length;
-    atualizarVidas();
-    sortearEmojis();
-    mostrarDica();
+    try {
+        const res = await fetch('/api/personagem');
+        if (!res.ok) {
+            msgEl.textContent = `Banco de dados sem registros.`;
+            return;
+        }
+
+        selected = await res.json();
+        
+        vidas = selected.dicas.length;
+        atualizarVidas();
+        sortearEmojis();
+        mostrarDica();
+    } catch (error) {
+        console.error("Erro na requisição front-end:", error);
+        msgEl.textContent = "Não foi possível conectar ao servidor.";
+    }
 }
 
 function sortearEmojis() {
@@ -36,7 +46,7 @@ function sortearEmojis() {
 }
 
 function mostrarDica() {
-    if (hintIndex < selected.dicas.length) {
+    if (selected && hintIndex < selected.dicas.length) {
         const div = document.createElement("div");
         div.className = "hint-line";
         div.textContent = `Dica: ${selected.dicas[hintIndex]}`;
@@ -62,11 +72,11 @@ function showConfetti() {
 }
 
 function checagem() {
-    if (gameOver) return;
+    if (gameOver || !selected) return;
     const chute = inputEl.value.trim().toLowerCase();
     if (!chute) return;
 
-    const nomes = Array.isArray(selected.nome) ? selected.nome.map(n => n.toLowerCase()) : [selected.nome.toLowerCase()];
+    const nomes = selected.nomes_aceitaveis.map(n => n.toLowerCase().trim());
 
     if (nomes.includes(chute)) {
         msgEl.innerHTML = "🎉 <strong>Acertou!</strong>";
@@ -82,8 +92,7 @@ function checagem() {
             msgEl.textContent = "❌ Errado! Outra dica:";
             mostrarDica();
         } else {
-            const nomeCerto = Array.isArray(selected.nome) ? selected.nome[0] : selected.nome;
-            msgEl.innerHTML = `💀 <strong>Game Over!</strong> Era o(a): ${nomeCerto}`;
+            msgEl.innerHTML = `💀 <strong>Fim de Jogo!</strong> Era o(a): ${selected.nome_principal}`;
             finalizar();
         }
     }
@@ -92,11 +101,17 @@ function checagem() {
 
 function finalizar() {
     gameOver = true;
-    inputEl.disabled = true; // Bloqueia o campo de texto
+    inputEl.disabled = true;
     restartBtn.style.display = "inline-block";
 }
 
-function atualizarVidas() { vidasEl.textContent = "❤️".repeat(vidas); }
+function atualizarVidas() { 
+    vidasEl.textContent = "❤️".repeat(vidas); 
+    vidasEl.style.display = "flex";
+    vidasEl.style.justifyContent = "center";
+    vidasEl.style.gap = "4px"; 
+}
+
 document.getElementById("btnAdivinhar").onclick = checagem;
 inputEl.onkeyup = (e) => e.key === "Enter" && checagem();
 restartBtn.onclick = init;
