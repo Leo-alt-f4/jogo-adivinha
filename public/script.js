@@ -63,7 +63,7 @@ function showConfetti() {
     for (let i = 0; i < 50; i++) {
         const piece = document.createElement('div');
         piece.className = 'confetti-piece';
-        piece.style.left = Math.random() * 100 + 'vw';
+        piece.style.left = Math.random() * 200 + 'vw';
         piece.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
         piece.style.animationDelay = Math.random() * 2 + 's';
         container.appendChild(piece);
