@@ -3,9 +3,9 @@
   --container-bg: #121213;
   --text-color: #ffffff;
   --border-color: #3a3a3c;
-  --correct: #6aaa64;    /* Verde do Termo */
-  --present: #262521;    /* Amarelo do Termo */
-  --absent: #3a3a3c;     /* Cinza do Termo */
+  --correct: #6aaa64;    
+  --present: #262521;    
+  --absent: #3a3a3c;     
 }
 
 body {
